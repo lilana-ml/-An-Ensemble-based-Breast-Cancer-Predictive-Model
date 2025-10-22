@@ -28,4 +28,4 @@ Python 3.x
 
 ## Acknowledgements
 
-I would like to acknowledge the repository (https://github.com/FaraazArsath) by Faraaz Arsath for providing inspiration and guidance regarding the ensemble model architectures used in this project.  
+I would like to acknowledge (https://github.com/FaraazArsath) for inspiration and guidance regarding the ensemble model architectures used in this project.  
