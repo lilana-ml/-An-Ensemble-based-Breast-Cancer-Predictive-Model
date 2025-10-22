@@ -1,4 +1,4 @@
-A production-ready machine learning pipeline for breast cancer diagnosis using ensemble methods (Voting Classifier & XGBoost) with preprocessing, feature selection, and comprehensive evaluation.
+A machine learning pipeline for breast cancer diagnosis using ensemble methods (Voting Classifier & XGBoost) with preprocessing, feature selection, and comprehensive evaluation.
 
 
 **Key Modules**
