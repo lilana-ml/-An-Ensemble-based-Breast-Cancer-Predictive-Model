@@ -1,51 +1,33 @@
-A machine learning pipeline for breast cancer diagnosis using ensemble methods (Voting Classifier & XGBoost) with preprocessing, feature selection, and comprehensive evaluation.
+ A machine learning pipeline for breast cancer diagnosis using ensemble methods (Voting Classifier & XGBoost) with preprocessing, feature selection, and comprehensive evaluation.
 
 
-**Key Modules**
+## Key Modules
 
-main.py: Complete execution pipeline
-
-
-model_builder.py: Creates ensemble models with hyperparameter tuning
-
-
-model_evaluator.py: Evaluates and compares models
+- `main.py` – Complete execution pipeline for data preprocessing, model training, and evaluation.  
+- `model_builder.py` – Creates ensemble models and performs hyperparameter tuning.  
+- `model_evaluator.py` – Evaluates and compares model performance using multiple metrics.  
+- `visualization.py` – Generates plots and charts for results analysis.  
+- `utils.py` – Utility functions for saving results, generating reports, and maintaining reproducibility
 
 
-visualization.py: Generates plots and charts
-
-
-utils.py: Saves results and generates reports
-
-
-
-**Usage**
-
-
-Complete Pipeline
-
-
-python main.py
-
-
- **Dependencies**
+ ## Dependencies
  
 
 Python 3.8+
 
+- `scikit-learn`
+- `xgboost`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `imbalanced-learn`
 
-scikit-learn
 
 
-xgboost
+
+## Acknowledgements
+
+I would like to acknowledge the repository [Ensemble Techniques for Breast Cancer Detection](https://github.com/FaraazArsath/Ensemble_techniques_breast_cancer_detection) by Faraaz Arsath for providing inspiration and guidance regarding the ensemble model architectures and pipeline design used in this project.  
 
 
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-imbalanced-learn
