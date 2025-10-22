@@ -28,6 +28,6 @@ Python 3.x
 
 ## Acknowledgements
 
-I would like to acknowledge the repository [Ensemble Techniques for Breast Cancer Detection](https://github.com/FaraazArsath/Ensemble_techniques_breast_cancer_detection) by Faraaz Arsath for providing inspiration and guidance regarding the ensemble model architectures used in this project.  
+I would like to acknowledge the repository https://github.com/FaraazArsath/Ensemble_techniques_breast_cancer_detection/commits?author=FaraazArsath(https://github.com/FaraazArsath/Ensemble_techniques_breast_cancer_detection) by Faraaz Arsath for providing inspiration and guidance regarding the ensemble model architectures used in this project.  
 
 
